@@ -29,4 +29,4 @@ sparseAutoencoderCost.m
 Final result can be seen from weights.jpeg
 
 
-
+Link to my post: http://imiloainf.wordpress.com/2013/11/05/exercising-sparse-autoencoder/
